@@ -1,2 +1,3 @@
-show chassis hardware
-show chassis routing-engine
+show version
+show configuration
+show interfaces terse
